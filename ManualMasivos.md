@@ -7,7 +7,7 @@
   - [1. Recursos](#1-recursos)
     - [Aliados de trabajo y herramientas](#aliados-de-trabajo-y-herramientas)
     - [Fuentes de trabajo](#fuentes-de-trabajo)
-    - [Dimensión de variables](#dimensión-de-variables)
+    - [Relaciones Entre Tablas](#relaciones-entre-tablas)
   - [2. Herramientas](#2-herramientas)
     - [Boton de ayuda](#boton-de-ayuda)
     - [Filtro relacional](#filtro-relacional)
@@ -34,25 +34,19 @@
 
 ### Aliados de trabajo y herramientas
 
-![Imagenes/actual.png](Imagenes/actual.png)
+![Imagenes/actual.jpg](Imagenes/actual.jpg)
 
 [Indice](#indice)
 
 ### Fuentes de trabajo
 
-![Imagenes/fuentesdetrabajo.png](Imagenes/fuentesdetrabajo.png)
+![Imagenes/fuentedetrabajo.jpg](Imagenes/fuentedetrabajo.jpg)
 
 [Indice](#indice)
 
-### Dimensión de variables
+### Relaciones Entre Tablas
 
-- Optimización de intervalos, focos y prácticas de gestión y ejecución por temporalidades.
-
-- Descripción de variables de ejecución, comportamiento y otros factores de la gestión en controlnext
-
-- Medición y retroalimentación de focos, gestores y canales de mayor eficiencia y efectividad (comportamiento variables Score asignación C-Universe).
-
-![Imagenes/dimensiondevariables.png](Imagenes/dimensiondevariables.png)
+![Imagenes/relaciones.jpg](Imagenes/relaciones.jpg)
 
 [Indice](#indice)
 
@@ -62,7 +56,7 @@
 
 Se realiza la creación de marcadores por medio de botones para facilitar la interpretacion de indicadores y generar un acceso más rapido a la sección de filtros que se encuentra oculta para una mejor visualización de los datos.
 
-![Imagenes/botondeayuda.png](Imagenes/Botonesmasivos.png)
+![Imagenes/Imagggen1.png](Imagenes/Imagggen1.png)
 
 [Indice](#indice)
 
