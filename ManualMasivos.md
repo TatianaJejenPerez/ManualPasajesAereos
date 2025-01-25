@@ -1,11 +1,8 @@
-
-![badge](Imagenes/badge.webp)
-
-# Manual Reporte Masivos
+# Manual Dashboard Análisis de Precios por Ticketes Aereos
 
 ## Indice
 
-- [Manual Reporte Masivos](#manual-reporte-masivos)
+- [Manual](#manual)
   - [Indice](#indice)
   - [1. Recursos](#1-recursos)
     - [Aliados de trabajo y herramientas](#aliados-de-trabajo-y-herramientas)
@@ -37,7 +34,7 @@
 
 ### Aliados de trabajo y herramientas
 
-![Imagenes/aliadosyherramientas.png](Imagenes/aliadosyherramientas.png)
+![Imagenes/actual.png](Imagenes/actual.png)
 
 [Indice](#indice)
 
